@@ -19,3 +19,18 @@ This dataset represents a compilations of several dataset that contains real pho
 
 <!--a href="https://www.autopsy.com/download/" target="_blank">Here</a>, it is possible to find the compilation of all datasets already labeled.-->
 The final dataset already labeled is available <a href="https://github.com/saraferreirascf/Deep-fake-detector/tree/main/datasets" target="_blank">here</a>
+
+## Authors
+
+- Sara Ferreira - Department of Computer Science; Faculty of Sciences; University of Porto, 4169-007 Porto, Portugal; sara.ferreira@fc.up.pt
+- Mário Antunes - Computer Science and Communication Research Centre (CIIC), School of Technology and Management, Polytechnic of Leiria; 2411-901 Leiria; Portugal; mario.antunes@ipleiria.pt  <br>
+INESC TEC, CRACS; 4200-465 Porto; Portugal
+- Manuel E. Correira - Department of Computer Science; Faculty of Sciences; University of Porto, 4169-007 Porto, Portugal;  mdcorrei@fc.up.pt <br>
+INESC TEC, CRACS; 4200-465 Porto; Portugal 
+
+## Features
+
+- Features extraction with Discrete Fourier Transform implementation
+- Images and videos classification with SVM-based model
+- Combines both objects and faces.
+
