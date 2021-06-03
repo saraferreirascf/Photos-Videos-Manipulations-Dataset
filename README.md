@@ -1,3 +1,11 @@
+## Authors
+
+- Sara Ferreira - Department of Computer Science; Faculty of Sciences; University of Porto, 4169-007 Porto, Portugal; sara.ferreira@fc.up.pt
+- Mário Antunes - Computer Science and Communication Research Centre (CIIC), School of Technology and Management, Polytechnic of Leiria; 2411-901 Leiria; Portugal; mario.antunes@ipleiria.pt  <br>
+INESC TEC, CRACS; 4200-465 Porto; Portugal
+- Manuel E. Correira - Department of Computer Science; Faculty of Sciences; University of Porto, 4169-007 Porto, Portugal;  mdcorrei@fc.up.pt <br>
+INESC TEC, CRACS; 4200-465 Porto; Portugal 
+
 ## Objects and faces manipulations dataset
 
 This dataset represents a compilations of several dataset that contains real photos and video frames and forged ones. This forged photos and video frames contais several types of manipulation like copy-move, splicing and deepfake.
@@ -16,21 +24,16 @@ This dataset represents a compilations of several dataset that contains real pho
 **This dataset only contains videos. Between 3-4 fps were extracted from each video and added to the final dataset*
 
 
-
 <!--a href="https://www.autopsy.com/download/" target="_blank">Here</a>, it is possible to find the compilation of all datasets already labeled.-->
 The final dataset already labeled is available <a href="https://github.com/saraferreirascf/Deep-fake-detector/tree/main/datasets" target="_blank">here</a>
-
-## Authors
-
-- Sara Ferreira - Department of Computer Science; Faculty of Sciences; University of Porto, 4169-007 Porto, Portugal; sara.ferreira@fc.up.pt
-- Mário Antunes - Computer Science and Communication Research Centre (CIIC), School of Technology and Management, Polytechnic of Leiria; 2411-901 Leiria; Portugal; mario.antunes@ipleiria.pt  <br>
-INESC TEC, CRACS; 4200-465 Porto; Portugal
-- Manuel E. Correira - Department of Computer Science; Faculty of Sciences; University of Porto, 4169-007 Porto, Portugal;  mdcorrei@fc.up.pt <br>
-INESC TEC, CRACS; 4200-465 Porto; Portugal 
 
 ## Features
 
 - Features extraction with Discrete Fourier Transform implementation
 - Images and videos classification with SVM-based model
 - Combines both objects and faces.
+
+## Pre-procssing
+
+
 
