@@ -33,7 +33,9 @@ The final dataset already labeled is available <a href="https://github.com/saraf
 - Images and videos classification with SVM-based model
 - Combines both objects and faces.
 
-## Pre-processing
+## Experimental setup
+
+![Pipeline](https://github.com/saraferreirascf/Objects-faces-manipulations-dataset/blob/main/experimental_setup.png)
 
 
 
