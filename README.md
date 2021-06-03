@@ -33,7 +33,7 @@ The final dataset already labeled is available <a href="https://github.com/saraf
 - Images and videos classification with SVM-based model
 - Combines both objects and faces.
 
-## Pre-procssing
+## Pre-processing
 
 
 
