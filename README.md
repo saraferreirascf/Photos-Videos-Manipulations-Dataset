@@ -25,7 +25,7 @@ This dataset represents a compilations of several dataset that contains real pho
 
 
 <!--a href="https://www.autopsy.com/download/" target="_blank">Here</a>, it is possible to find the compilation of all datasets already labeled.-->
-The final dataset already labeled is available <a href="https://github.com/saraferreirascf/Deep-fake-detector/tree/main/datasets" target="_blank">here</a>
+The final dataset already labeled is available <a href="https://github.com/saraferreirascf/Photos-Videos-Manipulations-Dataset/tree/main/datasets" target="_blank">here</a>
 
 ## Features
 
