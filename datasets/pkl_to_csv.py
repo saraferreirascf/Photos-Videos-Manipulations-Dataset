@@ -5,7 +5,7 @@ import sys
 if len(sys.argv) != 3:
     print("Not enough arguments")
     print("insert pkl filename and output filename")
-    print("pkl_to_txt.py <pkl> <output>")
+    print("pkl_to_csv.py <pkl> <output>")
     exit()
 
 filename=sys.argv[1]
