@@ -35,7 +35,7 @@ The final dataset already labeled is available <a href="https://github.com/saraf
 
 ## Experimental setup
 
-![Pipeline](https://github.com/saraferreirascf/Objects-faces-manipulations-dataset/blob/main/experimental_setup.png)
+![Pipeline](https://github.com/saraferreirascf/Photos-Videos-Manipulations-Dataset/blob/main/experimental_setup.png)
 
 In order to transform the simple dataset to a labeled dataset it is needed some pre-processing. The goal here is to use the photos and videos present in this dataset to classify other photos and videos. 
 To achieve this, the first step is to extract features from each file. Afterwards, it will be possible to compare this features with the features of multimedia content target of investigation, inferring if they are manipulated or not. 
