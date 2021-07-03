@@ -21,5 +21,5 @@ All datasets are labeled and balanced.
   
  - Convert pkl file to csv:
 
-  ``` py pkl_to_csv.py <pkl filename> <output filename> ```
+  ``` py pkl_to_csv.py <pkl filename> <output filename> ``` <br>
   *this script generates two .csv files. One for the features and one for the labels.
