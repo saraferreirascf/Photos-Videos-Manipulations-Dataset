@@ -15,11 +15,4 @@ All datasets are labeled and balanced.
    X_train = data["data"]
    y_train= data["label"] 
    
- - Convert pkl file to txt:
-  
-  ``` py pkl_to_txt.py <pkl filename> <output filename> ```
-  
- - Convert pkl file to csv:
-
-  ``` py pkl_to_csv.py <pkl filename> <output filename> ``` <br>
-  *this script generates two .csv files. One for the features and one for the labels.
+ 
