@@ -14,7 +14,7 @@ This dataset represents a compilations of several dataset that contains real pho
 | ----------- | ----------- | ----------- | 
 | <a href="https://arxiv.org/abs/1710.10196" target="_blank">CelebA-HQ dataset</a> |   -     | 10000 | 
 | <a href="https://arxiv.org/abs/1812.04948" target="_blank">Flickr-Faces-HQ dataset </a>   | -       | 10000 | jewknjrw |
-| 100K Facesproject | 10000 | - | njbhjebhr |
+|<a href="https://generated.photos/" target="_blank">100K Faces Project </a>  | 10000 | - | njbhjebhr |
 | <a href="https://thispersondoesnotexist.com/" target="_blank">This person does not exist </a> | 10000 | - | wehwu |
 | <a href="https://github.com/wenbihan/coverage" target="_blank">COVERAGE dataset </a> | 97| 97| jehbrb|
 | <a href="https://www.ee.columbia.edu/ln/dvmm/downloads/AuthSplicedDataSet/AuthSplicedDataSet.htm" target="_blank">Columbia Image Splicing Dataset </a> | 180 | 183 | hegrher |
