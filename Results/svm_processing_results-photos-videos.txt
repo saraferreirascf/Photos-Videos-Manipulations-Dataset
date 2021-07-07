@@ -1,0 +1,114 @@
+Starting processing phase......
+
+Split  1
+
+              precision    recall  f1-score   support
+
+         0.0       0.82      0.99      0.89      5390
+         1.0       0.98      0.77      0.86      5208
+
+    accuracy                           0.88     10598
+   macro avg       0.90      0.88      0.88     10598
+weighted avg       0.90      0.88      0.88     10598
+
+
+True Positives:  5319
+False Negatives:  71
+False Positives:  1192
+True Negatives:  4016
+
+Precision -- Recall -- f1 score
+0.8169252035017662
+0.9868274582560297
+0.8938744643307285
+
+Split  2
+
+              precision    recall  f1-score   support
+
+         0.0       0.81      0.99      0.89      5273
+         1.0       0.99      0.77      0.87      5325
+
+    accuracy                           0.88     10598
+   macro avg       0.90      0.88      0.88     10598
+weighted avg       0.90      0.88      0.88     10598
+
+
+True Positives:  5216
+False Negatives:  57
+False Positives:  1221
+True Negatives:  4104
+
+Precision -- Recall -- f1 score
+0.8103153643001398
+0.9891902142992604
+0.8908625106746371
+
+
+Split  3
+
+              precision    recall  f1-score   support
+
+         0.0       0.81      0.99      0.89      5295
+         1.0       0.98      0.76      0.86      5303
+
+    accuracy                           0.88     10598
+   macro avg       0.90      0.88      0.87     10598
+weighted avg       0.90      0.88      0.87     10598
+
+
+True Positives:  5228
+False Negatives:  67
+False Positives:  1248
+True Negatives:  4055
+
+Precision -- Recall -- f1 score
+0.8072884496602841
+0.9873465533522191
+0.8882847676493076
+
+Split  4
+
+              precision    recall  f1-score   support
+
+         0.0       0.81      0.99      0.89      5258
+         1.0       0.99      0.77      0.87      5340
+
+    accuracy                           0.88     10598
+   macro avg       0.90      0.88      0.88     10598
+weighted avg       0.90      0.88      0.88     10598
+
+
+True Positives:  5201
+False Negatives:  57
+False Positives:  1203
+True Negatives:  4137
+
+Precision -- Recall -- f1 score
+0.8121486570893192
+0.9891593761886649
+0.8919567827130852
+
+Split  5
+
+              precision    recall  f1-score   support
+         0.0       0.81      0.99      0.89      5279
+         1.0       0.98      0.77      0.86      5319
+
+    accuracy                           0.88     10598
+   macro avg       0.90      0.88      0.88     10598
+weighted avg       0.90      0.88      0.88     10598
+
+
+True Positives:  5211
+False Negatives:  68
+False Positives:  1218
+True Negatives:  4101
+
+Precision -- Recall -- f1 score
+0.8105459636024265
+0.9871187724947906
+0.8901605739665186
+
+
+Runtime of the program is 1993.47279214859 seconds
